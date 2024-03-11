@@ -12,3 +12,5 @@ Concept Matching: Semantic search systems go beyond simple keyword matching and 
 Natural Language Processing (NLP): NLP techniques are employed to understand the natural language in queries and documents, helping the search engine better interpret and respond to user input.
 Machine Learning: Algorithms learn from patterns and user behavior, continuously improving the relevance of search results over time.
 Semantic search is particularly beneficial for complex queries, ambiguous language, and situations where users may not use the exact keywords that would typically yield the desired results. It has applications in various fields, including information retrieval, recommendation systems, and question-answering systems.
+
+Refer: https://threadwaiting.com/semantic-search-using-langchain-and-mongodb-atlas/
